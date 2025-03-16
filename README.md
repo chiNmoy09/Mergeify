@@ -21,8 +21,8 @@ Built with Kotlin, Room Database, DataBinding, and RecyclerView for a seamless u
 
 <p>
 
-<img src="https://github.com/chiNmoy09/Mergeify/blob/main/Screenshots/Im1.jpeg?raw=true" alt="Home" width = "400" >
-<img src="https://github.com/chiNmoy09/Mergeify/blob/main/Screenshots/Im2.jpeg?raw=true" alt="Home" width = "400" >
+<img src="https://github.com/chiNmoy09/Mergeify/blob/main/Screenshots/Im1.jpeg?raw=true" alt="Home" width = "300" >
+<img src="https://github.com/chiNmoy09/Mergeify/blob/main/Screenshots/Im2.jpeg?raw=true" alt="Home" width = "300" >
 
 </p>
 
