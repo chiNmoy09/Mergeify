@@ -1,7 +1,7 @@
 
 # MarkDown
 
-Mergeify is an Android application that allows users to merge multiple PDF files into a single document and edit PDFs by removing specific pages before saving them. Built using Kotlin and iTextPDF, this app simplifies PDF management with an intuitive interface.
+Mergeify allows users to merge multiple PDF files into a single document. Built using Kotlin and iTextPDF, this app simplifies PDF management with an intuitive interface.
 
 ## NOTE
 
