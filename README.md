@@ -10,7 +10,6 @@ This repository is still under development and I will continue to add more featu
 ## Key Features
 
 - **Merge PDFs** – Select up to 10 PDFs and combine them into one.
-- **Edit PDFs** – Remove unwanted pages from a PDF and save the modified version.
 - **File Management** – Save the merged/edited PDFs in the device's storage.
 - **Easy Preview** – Open the merged or edited PDF directly from the app.
 - **Modern UI** – User-friendly interface with smooth animations.
